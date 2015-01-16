@@ -1,0 +1,9 @@
+Debug/
+Release/
+.settings/
+
+# Eclipse Core
+.project
+
+# CDT-specific
+.cproject
